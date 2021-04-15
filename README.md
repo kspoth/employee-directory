@@ -1,7 +1,4 @@
-# employee-directory
-# Budget-Tracker
-
-# workout-tracker
+# Employee-Directory
 
 ## Project Description
 
