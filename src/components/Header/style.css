@@ -1,3 +1,9 @@
 .header {
-    ;
+    width: 100%;
+    text-align: center;
+    font-size: 3rem;
+    color: white;
+    background-color: rgb(116, 110, 110);
+    padding: 20px;
+    border: solid rgb(48, 45, 230) 2px;
 }
