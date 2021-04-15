@@ -8,9 +8,9 @@ The Employee Directory allows a user to search and sort a list of employees. Thi
 
 https://kspoth.github.io/employee-directory/
 
-![]()
+![](https://i.ibb.co/s1gWpcv/Screen-Shot-2021-04-14-at-8-29-40-PM.png)
 
-![]()
+![](https://i.ibb.co/V3c1MbC/Screen-Shot-2021-04-14-at-8-29-58-PM.png)
 
 ### Built With
 
